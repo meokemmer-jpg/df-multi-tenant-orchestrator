@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.venv/
+*.log
+runs/
+output/
+state/
+learnings/
+STOP.flag
+.env
+.env.*
+secrets/
+*.lock
+/tmp/
