@@ -12,3 +12,11 @@ STOP.flag
 secrets/
 *.lock
 /tmp/
+*.env
+*.db
+*.sqlite
+*.sqlite3
+*.key
+*.pem
+secrets.json
+credentials.json
